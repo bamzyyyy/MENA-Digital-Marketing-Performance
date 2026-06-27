@@ -1,0 +1,273 @@
+# 📊 MENA Digital Marketing Performance Analysis
+
+> An end-to-end digital marketing analytics project that explores campaign performance across the Middle East and North Africa (MENA) region using Python. The project transforms raw marketing data into actionable business insights through exploratory data analysis (EDA), KPI evaluation, and data storytelling.
+
+---
+
+## 📌 Project Overview
+
+Digital marketing teams rely on data to optimize advertising spend, improve campaign performance, and maximize return on investment. This project analyzes a synthetic multi-channel marketing dataset representing advertising activities across MENA markets between **2023 and 2025**.
+
+Using Python, the project performs data cleaning, exploratory data analysis, descriptive statistics, and marketing KPI analysis to identify trends, measure campaign effectiveness, and uncover opportunities for improving marketing performance.
+
+---
+
+## 🎯 Objectives
+
+The project aims to:
+
+- Analyze digital marketing campaign performance across multiple advertising platforms.
+- Measure campaign efficiency using key marketing KPIs.
+- Evaluate customer progression through the marketing funnel.
+- Identify top-performing campaigns, creatives, and marketing themes.
+- Understand the impact of seasonality and regional holidays on campaign performance.
+- Generate business insights that support data-driven marketing decisions.
+
+---
+
+## ❓ Business Questions
+
+This analysis answers the following stakeholder questions:
+
+1. Which advertising platforms deliver the highest return on investment (ROAS)?
+2. How effectively are customers progressing through the marketing funnel?
+3. Which campaigns, creatives, and themes generate the strongest business results?
+4. How do seasonality and regional holidays influence campaign performance across MENA markets?
+5. Which countries and market tiers contribute the most revenue and conversions?
+
+---
+## Visualization
+
+
+---
+
+## 📂 Dataset
+
+**Source:** Synthetic Digital Marketing Dataset
+
+**Coverage**
+
+- **Region:** Middle East & North Africa (MENA)
+- **Time Period:** January 2023 – December 2025
+- **Granularity:** Daily campaign performance
+- **Records:** 30,000+
+- **Features:** 35 columns
+
+The dataset simulates realistic digital advertising performance across multiple marketing platforms and funnel stages while preserving deterministic relationships between key marketing metrics.
+
+---
+
+## 📖 Dataset Features
+
+### Time Attributes
+
+- Date
+- Year
+- Month
+- Week
+- Day of Week
+- Season
+- Post Hour
+- Holiday Indicator
+- Weekend Indicator
+
+### Marketing Dimensions
+
+- Country
+- Market Tier
+- Account
+- Account Type
+- Platform
+- Placement
+- Funnel Stage
+- Objective
+- Theme
+- Campaign
+- Ad Group
+- Ad
+
+### Performance Metrics
+
+- Spend
+- Impressions
+- Reach
+- Frequency
+- Clicks
+- Conversions
+- Revenue
+- Video Views
+
+### Marketing KPIs
+
+- CPM
+- CTR
+- CPC
+- Conversion Rate
+- CPA
+- ROAS
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 📈 Exploratory Data Analysis
+
+The analysis includes:
+
+- Data inspection
+- Data type validation
+- Missing value assessment
+- Descriptive statistics
+- Distribution analysis
+- Marketing KPI evaluation
+- Platform comparison
+- Funnel analysis
+- Campaign performance analysis
+- Theme performance analysis
+- Seasonal trend analysis
+- Country-level performance analysis
+
+---
+
+## 📊 Key Marketing KPIs
+
+The project evaluates marketing performance using:
+
+- Revenue
+- Advertising Spend
+- Impressions
+- Reach
+- Clicks
+- Conversions
+- CPM (Cost per Mille)
+- CTR (Click-Through Rate)
+- CPC (Cost per Click)
+- CPA (Cost per Acquisition)
+- Conversion Rate
+- ROAS (Return on Ad Spend)
+
+---
+
+## 📌 Key Insights
+
+The analysis provides insights into:
+
+- The highest-performing advertising platforms based on ROAS.
+- Campaigns that generate the greatest revenue and conversions.
+- Creative themes that consistently outperform others.
+- Customer movement across the marketing funnel.
+- Seasonal and holiday effects on campaign performance.
+- Revenue contribution by country and market tier.
+- The relationship between advertising spend and revenue.
+
+---
+
+## 📁 Project Structure
+
+```text
+MENA-Digital-Marketing-Performance/
+│
+├── Dataset/
+│   └── digital_marketing_dataset_30k.csv
+│
+├── Notebook/
+│   └── Mena.ipynb
+│
+├── Images/
+│
+├── README.md
+│
+└── requirements.txt
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/MENA-Digital-Marketing-Performance.git
+```
+
+### Navigate into the project
+
+```bash
+cd MENA-Digital-Marketing-Performance
+```
+
+### Create a virtual environment
+
+```bash
+python -m venv .venv
+```
+
+### Activate the environment
+
+**Windows**
+
+```bash
+.venv\Scripts\activate
+```
+
+**macOS/Linux**
+
+```bash
+source .venv/bin/activate
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```
+Mena.ipynb
+```
+
+---
+
+## 📈 Future Improvements
+
+Potential enhancements include:
+
+- Building an interactive Tableau dashboard
+- Developing a Power BI executive dashboard
+- Creating predictive models for campaign performance
+- Forecasting future marketing KPIs
+- Automating reporting with Python
+- Deploying the dashboard as a web application
+
+---
+
+## 📌 Disclaimer
+
+This project uses a **synthetic dataset** created solely for educational, analytical, and portfolio purposes. It does not contain real customer or campaign data and should not be used for operational or financial decision-making.
+
+---
+
+## 👤 Author
+
+**Aminu Oluwarotimi Desmond**
+
+**Data Analyst | Digital Marketing Data Analyst | Business Intelligence**
+
+If you found this project useful, consider ⭐ starring the repository.
