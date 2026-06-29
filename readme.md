@@ -30,8 +30,7 @@ The primary objectives of this project are to:
 - The dataset was provided in GitHub and was transformed to CSV format for transparency and reproductibility.
 
 
-## Topical Questions and Hypotheses
-#### Questions 🤔:
+## Questions and Hypotheses
 
 ## ❓ Business Questions
 
