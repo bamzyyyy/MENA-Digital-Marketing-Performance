@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b> MENA Digital Marketing Performance Analysis </b></h1>
+  <h1><b> 📊 MENA Digital Marketing Performance Analysis </b></h1>
 </div>
 
 <!-- PROJECT DESCRIPTION -->
 
-#   📊 MENA Digital Marketing Performance Analysis <a name="about-project"></a>
+ <a name="about-project"></a>
 
 ## Overview 
 
