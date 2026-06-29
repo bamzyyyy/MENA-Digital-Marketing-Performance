@@ -27,8 +27,8 @@ The primary objectives of this project are to:
 
 ---
 ## Data Sources 📊
-- The dataset was provided in GitHub and SQL and was transformed to CSV format for transparency and reproductibility.
-- Statistics on Telco Churn Rate.
+- The dataset was provided in GitHub and was transformed to CSV format for transparency and reproductibility.
+
 
 ## Topical Questions and Hypotheses
 #### Questions 🤔:
