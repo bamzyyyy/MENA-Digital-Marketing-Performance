@@ -105,8 +105,7 @@ The notebook covers:
 - Geographic Performance Analysis
 - Business Insights & Recommendations
 
-### Data Dictionary
-## 📚 Data Dictionary
+### 📚 Data Dictionary
 
 | Column | Description |
 |--------|-------------|
