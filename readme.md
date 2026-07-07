@@ -1,0 +1,249 @@
+# 📊 MENA Digital Marketing Performance Analysis
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+## 📖 Overview
+
+This project presents an end-to-end exploratory data analysis (EDA) of digital marketing campaign performance across the **Middle East and North Africa (MENA)** region. Using Python, the project evaluates campaign effectiveness across multiple advertising platforms by analyzing marketing KPIs, customer engagement, conversion performance, and revenue generation.
+
+The analysis transforms raw marketing data into actionable business insights that support data-driven decision-making for marketing teams and business stakeholders.
+
+---
+
+## 🎯 Project Objectives
+
+The primary objectives of this project are to:
+
+- Evaluate advertising performance across multiple marketing platforms.
+- Measure campaign efficiency using key digital marketing KPIs.
+- Analyze customer progression through the marketing funnel.
+- Identify high-performing campaigns, creatives, and marketing themes.
+- Assess the impact of seasonality and regional holidays on campaign performance.
+- Provide actionable recommendations to improve marketing performance and optimize advertising spend.
+
+---
+
+## ❓ Business Questions
+
+This project addresses the following business questions:
+
+1. Which advertising platforms deliver the highest Return on Ad Spend (ROAS)?
+2. How effectively are customers progressing through the marketing funnel?
+3. Which campaigns, creatives, and themes generate the strongest business results?
+4. How do seasonality and regional holidays influence campaign performance across MENA markets?
+5. Which countries and market tiers contribute the most revenue and conversions?
+
+---
+
+## 📂 Dataset
+
+The project uses a **synthetic digital marketing performance dataset** designed for educational and portfolio purposes.
+
+| Feature | Description |
+|----------|-------------|
+| **Region** | Middle East & North Africa (MENA) |
+| **Period** | January 2023 – December 2025 |
+| **Granularity** | Daily Campaign Performance |
+| **Records** | 30,000+ |
+| **Columns** | 35 |
+
+The dataset simulates realistic advertising performance across multiple platforms, campaign objectives, and funnel stages using deterministic marketing relationships.
+
+---
+
+## 📊 Marketing KPIs
+
+The analysis focuses on the following key performance indicators:
+
+- 💰 Revenue
+- 💵 Advertising Spend
+- 📈 Return on Ad Spend (ROAS)
+- 💲 Cost per Acquisition (CPA)
+- 💳 Cost per Click (CPC)
+- 📊 Click-Through Rate (CTR)
+- 📉 Cost per 1,000 Impressions (CPM)
+- 🎯 Conversion Rate
+- 👀 Impressions
+- 📢 Reach
+- 🖱️ Clicks
+- ✅ Conversions
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Tableau (Dashboard Development)
+
+---
+
+## 🔍 Exploratory Data Analysis
+
+The notebook covers:
+
+- Data Inspection
+- Data Cleaning
+- Data Validation
+- Descriptive Statistics
+- Marketing KPI Analysis
+- Platform Performance Analysis
+- Funnel Analysis
+- Campaign Performance Analysis
+- Creative Performance Analysis
+- Theme Performance Analysis
+- Seasonality Analysis
+- Geographic Performance Analysis
+- Business Insights & Recommendations
+
+---
+
+## 📈 Dashboard Visualizations
+
+The accompanying Tableau dashboard includes:
+
+- 📌 Executive KPI Cards
+- 📊 ROAS by Platform
+- 🎯 Marketing Funnel Analysis
+- 📈 Spend vs Revenue Scatter Plot
+- 🏆 Top Campaign Performance
+- 🎨 Top Creative Performance (Lollipop Chart)
+- 🌳 Theme Performance (Treemap)
+- 📅 Monthly Revenue Trend
+- 🌍 Country Performance Map
+- 🔥 Seasonality & Holiday Impact
+
+---
+
+## 💡 Key Insights
+
+The analysis provides insights into:
+
+- The most profitable advertising platforms.
+- Campaigns delivering the highest revenue and conversions.
+- Creative themes generating the strongest business impact.
+- Customer progression through the marketing funnel.
+- Seasonal trends affecting campaign performance.
+- Revenue contribution across countries and market tiers.
+- The relationship between advertising spend and generated revenue.
+
+---
+
+## 📁 Project Structure
+
+```text
+MENA-Digital-Marketing-Performance/
+│
+├── data/
+│   └── digital_marketing_dataset_30k.csv
+│
+├── notebooks/
+│   └── Mena.ipynb
+│
+├── dashboard/
+│   └── Tableau Dashboard.twbx
+│
+├── images/
+│
+├── README.md
+│
+├── requirements.txt
+│
+└── LICENSE
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/MENA-Digital-Marketing-Performance.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd MENA-Digital-Marketing-Performance
+```
+
+Create a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+Activate the environment:
+
+### Windows
+
+```bash
+.venv\Scripts\activate
+```
+
+### macOS/Linux
+
+```bash
+source .venv/bin/activate
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+Mena.ipynb
+```
+
+---
+
+## 📌 Future Enhancements
+
+Future improvements for this project include:
+
+- Interactive Power BI dashboard
+- Marketing KPI forecasting
+- Campaign performance prediction using machine learning
+- Automated reporting pipeline
+- Streamlit web application deployment
+- Real-time marketing dashboard integration
+
+---
+
+## ⚠️ Disclaimer
+
+This project uses a **synthetic dataset** created solely for educational, analytical, and portfolio purposes. It does not contain real customer, campaign, or advertising data and should not be used for operational decision-making.
+
+---
+
+## 👨‍💻 Author
+
+**Aminu Oluwarotimi Desmond**
+
+**Data Analyst | Digital Marketing Data Analyst | Business Intelligence**
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub. It helps others discover the project and supports my portfolio.
