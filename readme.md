@@ -317,7 +317,7 @@ This project uses a **synthetic dataset** created solely for educational, analyt
 
 **Data Analyst | Digital Marketing Data Analyst | Business Intelligence**
 
-- GitHub: [GITHBUB](https://github.com/bamzyyyy?tab=repositories)
+- GitHub: [GITHUB](https://github.com/bamzyyyy?tab=repositories)
 - LinkedIn: [LINKEDIN](https://www.linkedin.com/in/aminudesmond/)
 
 ---
